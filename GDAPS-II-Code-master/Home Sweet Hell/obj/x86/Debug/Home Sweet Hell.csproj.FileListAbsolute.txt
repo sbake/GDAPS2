@@ -1,0 +1,41 @@
+D:\Profiles\jxl2489\OneDrive\Game Design 1 Projects\GDAPS II\Home Sweet Hell\Home Sweet Hell\Home Sweet Hell\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+D:\Profiles\jxl2489\OneDrive\Game Design 1 Projects\GDAPS II\Home Sweet Hell\Home Sweet Hell\Home Sweet Hell\bin\DesktopGL\x86\Debug\Home Sweet Hell.exe
+D:\Profiles\jxl2489\OneDrive\Game Design 1 Projects\GDAPS II\Home Sweet Hell\Home Sweet Hell\Home Sweet Hell\bin\DesktopGL\x86\Debug\Home Sweet Hell.pdb
+D:\Profiles\jxl2489\OneDrive\Game Design 1 Projects\GDAPS II\Home Sweet Hell\Home Sweet Hell\Home Sweet Hell\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+D:\Profiles\jxl2489\OneDrive\Game Design 1 Projects\GDAPS II\Home Sweet Hell\Home Sweet Hell\Home Sweet Hell\bin\DesktopGL\x86\Debug\NVorbis.dll
+D:\Profiles\jxl2489\OneDrive\Game Design 1 Projects\GDAPS II\Home Sweet Hell\Home Sweet Hell\Home Sweet Hell\bin\DesktopGL\x86\Debug\OpenTK.dll
+D:\Profiles\jxl2489\OneDrive\Game Design 1 Projects\GDAPS II\Home Sweet Hell\Home Sweet Hell\Home Sweet Hell\obj\x86\Debug\Home Sweet Hell.csprojResolveAssemblyReference.cache
+D:\Profiles\jxl2489\OneDrive\Game Design 1 Projects\GDAPS II\Home Sweet Hell\Home Sweet Hell\Home Sweet Hell\obj\x86\Debug\Home Sweet Hell.exe
+D:\Profiles\jxl2489\OneDrive\Game Design 1 Projects\GDAPS II\Home Sweet Hell\Home Sweet Hell\Home Sweet Hell\obj\x86\Debug\Home Sweet Hell.pdb
+Z:\IGMProfile\GDAPS II\Home Sweet Hell\Home Sweet Hell\obj\x86\Debug\Home Sweet Hell.exe
+Z:\IGMProfile\GDAPS II\Home Sweet Hell\Home Sweet Hell\obj\x86\Debug\Home Sweet Hell.pdb
+Z:\IGMProfile\GDAPS II\Home Sweet Hell\Home Sweet Hell\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+Z:\IGMProfile\GDAPS II\Home Sweet Hell\Home Sweet Hell\bin\DesktopGL\x86\Debug\Home Sweet Hell.exe
+Z:\IGMProfile\GDAPS II\Home Sweet Hell\Home Sweet Hell\bin\DesktopGL\x86\Debug\Home Sweet Hell.pdb
+Z:\IGMProfile\GDAPS II\Home Sweet Hell\Home Sweet Hell\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+Z:\IGMProfile\GDAPS II\Home Sweet Hell\Home Sweet Hell\bin\DesktopGL\x86\Debug\NVorbis.dll
+Z:\IGMProfile\GDAPS II\Home Sweet Hell\Home Sweet Hell\bin\DesktopGL\x86\Debug\OpenTK.dll
+Z:\IGMProfile\GDAPS II\Home Sweet Hell\Home Sweet Hell\obj\x86\Debug\Home Sweet Hell.csprojResolveAssemblyReference.cache
+Z:\IGMProfile\GDAPS II\Home Sweet Hell\Home Sweet Hell\bin\DesktopGL\x86\Debug\Content\mainFont.xnb
+Z:\IGMProfile\GDAPS II\Home Sweet Hell\Home Sweet Hell\bin\DesktopGL\x86\Debug\Content\Arial.xnb
+Z:\IGMProfile\GDAPS II\Home Sweet Hell\Home Sweet Hell\bin\DesktopGL\x86\Debug\Content\enemyplaceholder.png
+Z:\IGMProfile\GDAPS II\Home Sweet Hell\Home Sweet Hell\bin\DesktopGL\x86\Debug\Content\mapassets3type.png
+Z:\IGMProfile\GDAPS II\Home Sweet Hell\Home Sweet Hell\bin\DesktopGL\x86\Debug\Content\storebackplaceholder.png
+Z:\IGMProfile\GDAPS II\Home Sweet Hell\Home Sweet Hell\bin\DesktopGL\x86\Debug\Content\storelistingplaceholder.png
+Z:\IGMProfile\GDAPS II\Home Sweet Hell\Home Sweet Hell\bin\DesktopGL\x86\Debug\Content\towerplaceholder.png
+C:\Users\sbake\Documents\RIT\GDAPS-II-Code-master2\GDAPS-II-Code-master\Home Sweet Hell\bin\DesktopGL\x86\Debug\Content\enemyplaceholder.png
+C:\Users\sbake\Documents\RIT\GDAPS-II-Code-master2\GDAPS-II-Code-master\Home Sweet Hell\bin\DesktopGL\x86\Debug\Content\mapassets3type.png
+C:\Users\sbake\Documents\RIT\GDAPS-II-Code-master2\GDAPS-II-Code-master\Home Sweet Hell\bin\DesktopGL\x86\Debug\Content\storebackplaceholder.png
+C:\Users\sbake\Documents\RIT\GDAPS-II-Code-master2\GDAPS-II-Code-master\Home Sweet Hell\bin\DesktopGL\x86\Debug\Content\storelistingplaceholder.png
+C:\Users\sbake\Documents\RIT\GDAPS-II-Code-master2\GDAPS-II-Code-master\Home Sweet Hell\bin\DesktopGL\x86\Debug\Content\towerplaceholder.png
+C:\Users\sbake\Documents\RIT\GDAPS-II-Code-master2\GDAPS-II-Code-master\Home Sweet Hell\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\sbake\Documents\RIT\GDAPS-II-Code-master2\GDAPS-II-Code-master\Home Sweet Hell\bin\DesktopGL\x86\Debug\Content\mainFont.xnb
+C:\Users\sbake\Documents\RIT\GDAPS-II-Code-master2\GDAPS-II-Code-master\Home Sweet Hell\bin\DesktopGL\x86\Debug\Content\Arial.xnb
+C:\Users\sbake\Documents\RIT\GDAPS-II-Code-master2\GDAPS-II-Code-master\Home Sweet Hell\bin\DesktopGL\x86\Debug\Home Sweet Hell.exe
+C:\Users\sbake\Documents\RIT\GDAPS-II-Code-master2\GDAPS-II-Code-master\Home Sweet Hell\bin\DesktopGL\x86\Debug\Home Sweet Hell.pdb
+C:\Users\sbake\Documents\RIT\GDAPS-II-Code-master2\GDAPS-II-Code-master\Home Sweet Hell\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\sbake\Documents\RIT\GDAPS-II-Code-master2\GDAPS-II-Code-master\Home Sweet Hell\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\sbake\Documents\RIT\GDAPS-II-Code-master2\GDAPS-II-Code-master\Home Sweet Hell\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\sbake\Documents\RIT\GDAPS-II-Code-master2\GDAPS-II-Code-master\Home Sweet Hell\obj\x86\Debug\Home Sweet Hell.csprojResolveAssemblyReference.cache
+C:\Users\sbake\Documents\RIT\GDAPS-II-Code-master2\GDAPS-II-Code-master\Home Sweet Hell\obj\x86\Debug\Home Sweet Hell.exe
+C:\Users\sbake\Documents\RIT\GDAPS-II-Code-master2\GDAPS-II-Code-master\Home Sweet Hell\obj\x86\Debug\Home Sweet Hell.pdb

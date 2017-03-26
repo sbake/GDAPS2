@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace guifiles
+namespace Home_Sweet_Hell
 {
     /// <summary>
     /// The main class.

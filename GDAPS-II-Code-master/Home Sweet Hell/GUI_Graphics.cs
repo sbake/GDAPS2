@@ -7,7 +7,7 @@ using System.IO;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
-namespace guifiles
+namespace Home_Sweet_Hell
 {
     //Sophia Baker, Group 12, GUI-centric code 3/22/17
     //Parent class for StatGraphics and Anim

@@ -7,7 +7,7 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using System.IO;
 
-namespace guifiles
+namespace Home_Sweet_Hell
 {
     //Sophia Baker, Group 12, GUI-centric code 3/22/17
     //Loads static images: map tiles. 
